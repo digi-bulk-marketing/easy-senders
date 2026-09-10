@@ -1,9 +1,14 @@
 # Easy Senders
 
-- Rebranding ID: 68161757b61e49fca4745adc
-- User ID: 6332e51b8801666160d20ce4
-- App name: Easy Senders
-- Product name: Button Sender
+Easy Senders by Hardi Infotech.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/easy-senders/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/easy-senders/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/easy-senders/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Easy Senders** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/easy-senders/releases/latest) and reinstall.
